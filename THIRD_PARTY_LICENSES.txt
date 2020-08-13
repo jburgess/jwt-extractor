@@ -1,0 +1,45 @@
+Third Party Attributions
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Third Party Runtime Dependencies
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Project Helidon
+Apache 2.0
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+Helidon SE (io.helidon)
+  Copyright (c) 2017, 2020 Oracle and/or its affiliates. All rights reserved.
+--------------------------------------------
+License Identifier: Apache-2.0
+--------------------------------------------
+
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+JUnit 5.6.2 JUnit Team
+Eclipse Public License 2.0
+Used by: Many
+=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+License Identifier: EPL-2.0
+1.  The follow files are available in source code form under the Eclipse Public License at:
+    https://github.com/junit-team/junit5
+2.  All past Contributors to JUnit5 disclaim all warranties and conditions, express and
+    implied, including warranties or conditions of title and non-infringement, and implied
+    warranties or conditions of merchantability and fitness for a particular purpose.
+    In addition, such Contributors are not liable for any damages, including direct,
+    indirect, special, incidental and consequential damages, such as lost profits.
+3.  Any provisions of the Oracle license agreement that differ from the Eclipse Public License
+    are offered by Oracle alone and not by any other party.
+--------------------------------------------
+Fourth Party Dependencies
+--------------------------------------------
+junit-jupiter-params & junit-platform-console directories include an Apache license file
+Apache License 2
+--------------------
+https://github.com/apiguardian-team/apiguardian/archive/r1.1.0.zip
+ * Copyright 2002-2017 the original author or authors.
+Apache 2.0 License
+--------------------
+https://github.com/ota4j-team/opentest4j/archive/r1.2.0.zip
+ * Copyright 2015-2018 the original author or authors.
+Apache 2.0 License
+--------------------
